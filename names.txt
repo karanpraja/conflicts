@@ -1,1 +1,3 @@
-I have to tolerate to grow in my life otherwise no way!! Adopt austerity!!
+<<<<<<< HEAD
+I have to tolerate to grow in my life otherwise no way!! I have to start to stop wasting time!!
+>>>>>>> b05561c (new change)
